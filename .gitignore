@@ -3,7 +3,7 @@ API_practice.ipynb
 Google_Nearby_Search.ipnyb
 VacationPy.ipynb
 WeatherPy.ipynb
-/weather_data
+weather_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
