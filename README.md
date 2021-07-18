@@ -1,10 +1,10 @@
 # World Weather Analysis
 
-Developer: Stan Misina. 
-Submission Date: Jul 18, 2021. 
-Software Tools Used:  
-    Python 3.8 with libs: Pandas GMaps, CitiPy, NumPy, MatPlotLib, Requests, Random. 
-API Keys leveraged: Google, OpenWeather
+- Developer: Stan Misina. 
+- Submission Date: Jul 18, 2021. 
+- Software Tools Used:  
+    - Python 3.8 with libs: Pandas GMaps, CitiPy, NumPy, MatPlotLib, Requests, Random. 
+- API Keys leveraged: Google, OpenWeather
 
 
 ## Objective
