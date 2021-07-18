@@ -1,6 +1,8 @@
 config.py
 API_practice.ipynb
 Google_Nearby_Search.ipnyb
+VacationPy.ipynb
+WeatherPy.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
